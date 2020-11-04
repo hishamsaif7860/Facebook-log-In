@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    background-color: whitesmoke;
+}
+
+.face {
+    margin-top: 10%;
+}
+
+.face-txt {
+    width: 50%;
+}
